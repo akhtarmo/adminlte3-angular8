@@ -1,4 +1,4 @@
-# Automation02
+# AdminLTE 3.0.1 with Angular 8
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.2.0.
 
